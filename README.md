@@ -1,32 +1,40 @@
 # Histograms_in_R
 
 Plot-1: 
-![image](https://user-images.githubusercontent.com/62785524/142581915-e7b2daf7-102b-4698-bb57-5c5f46eb9dae.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584096-857f216b-81c6-4119-80ba-d46627c57dce.png)
 
 Plot-2:
-![image](https://user-images.githubusercontent.com/62785524/142581973-00d414bc-b691-4aeb-828c-0351eaf70a79.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584247-aaffba1d-a4bb-4b4a-be46-2efe790cb205.png)
 
 Plot-3:
-![image](https://user-images.githubusercontent.com/62785524/142582119-0d5d4d62-8cd5-44e8-b3aa-f7816beeefb2.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584298-1d877905-79eb-4e36-8b48-81dfd20d136a.png)
 
 Plot-4:
-![image](https://user-images.githubusercontent.com/62785524/142582232-7a3555e8-51fb-420e-b81d-700426a51277.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584343-6e3df45d-8a13-4204-9952-1ed1afd9f9ab.png)
 
 Plot-5:
-![image](https://user-images.githubusercontent.com/62785524/142582307-a1fefa44-51e2-437a-af7b-6a32644e15f9.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584445-90f5f3d3-06b5-49e7-812f-4a97d29059b7.png)
 
 Plot-6:
-![image](https://user-images.githubusercontent.com/62785524/142582416-0e33cd3c-9346-4845-ae91-8631d6f435ca.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584522-535efac3-9ac3-45ca-bcf1-f81cb2cd9981.png)
 
 Plot-7:
-![image](https://user-images.githubusercontent.com/62785524/142582678-01b78771-fc35-4a7e-82c2-69b932b32cb4.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142584596-03c771e9-d09c-4d45-af62-5d795cf7d2bb.png)
 
 Plot-8:
-![image](https://user-images.githubusercontent.com/62785524/142582860-6626acfc-1be3-4667-a98f-c615f4005c70.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142583914-c6a5104b-6804-497d-8550-96a9850423fb.png)
 
 Plot-9:
-![image](https://user-images.githubusercontent.com/62785524/142583545-66e1c7a7-3346-4d62-8625-d4bf78179497.png)
-![image](https://user-images.githubusercontent.com/62785524/142583661-e61d0d53-5b1a-498e-8515-e3b196b88ee4.png)
+
+![image](https://user-images.githubusercontent.com/62785524/142583800-2a0ff369-1981-4306-b106-0fe429e876e7.png)
 
 
------------------------------------------------------------------------ THE END -----------------------------------------------------------------------------------
+--------------------------------------------------------------------- THE END --------------------------------------------------------------------------------
