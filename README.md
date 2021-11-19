@@ -25,9 +25,7 @@ Plot-8:
 ![image](https://user-images.githubusercontent.com/62785524/142582860-6626acfc-1be3-4667-a98f-c615f4005c70.png)
 
 Plot-9:
-![image](https://user-images.githubusercontent.com/62785524/142582944-97cf0f83-c219-4b8d-8a69-66ac9fd07c55.png)
-![image](https://user-images.githubusercontent.com/62785524/142583254-53ec3966-c408-4165-896e-22f985014748.png)
-![image](https://user-images.githubusercontent.com/62785524/142583374-7a21bb64-00c0-45e6-9586-745f207ae0a8.png)
+![image](https://user-images.githubusercontent.com/62785524/142583545-66e1c7a7-3346-4d62-8625-d4bf78179497.png)
 
 
 ----------------------------------------------------------------------- THE END -----------------------------------------------------------------------------------
